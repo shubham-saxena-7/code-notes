@@ -11,7 +11,6 @@ module.exports = {
         contentPath: 'notes',
         basePath: '/',
         showThemeInfo: false
-        showDescriptionInSidebar: true,
       },
     },
   ],
